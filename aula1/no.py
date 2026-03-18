@@ -4,3 +4,4 @@ class No:
         self.dado = valor
         self.prox = None
 
+# A classe "No" tem o dado e tem o próximo.
